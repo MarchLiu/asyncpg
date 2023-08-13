@@ -1,2 +1,7 @@
 /build
 /cmake-build-debug/
+/.idea/
+asyncpg.control
+.DS_Store
+Cargo.lock
+target/
